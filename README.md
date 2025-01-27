@@ -8,9 +8,7 @@ The dataset used for training the model was sourced from Kaggle. It consists of 
 
 - **Normal Chest X-rays**: 1341 images
 - **Pneumonia Chest X-rays**: 3875 images
-
-Due to the dataset size (around 2GB), it could not be included directly in this repository. However, you can download it from the following link:
-
+## Kaggle dataset link
 - [Chest X-ray Images (Pneumonia) Dataset on Kaggle](https://lnkd.in/g2hCYamC)
 
 ## 🔧 Tech Stack
